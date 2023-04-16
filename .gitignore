@@ -1,0 +1,32 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore Resharper files
+_ReSharper*/
+*.ReSharper*
+
+# Ignore NuGet packages
+packages/
+
+# Ignore temporary files
+[~$]*
+*.bak
+*.cache
+*.tmp
+*.log
+
+# Ignore test results
+TestResults/
+
+# Ignore project-specific files
+*.csproj.user
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
