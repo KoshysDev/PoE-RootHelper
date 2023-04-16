@@ -23,10 +23,10 @@ Currently, the application includes basic functionality to navigate the leveling
 
 To install the application, simply download the latest zip file from the release tab or build it yourself. The program is portable, so it can be unzipped and used immediately.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Contribution
 
 Contributions to this project are welcome. Feel free to fork this repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0.
